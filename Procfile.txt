@@ -1,1 +1,1 @@
-worker jobs:work
+worker python memoguerrabot.py
