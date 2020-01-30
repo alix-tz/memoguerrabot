@@ -1,1 +1,1 @@
-worker: python memoguerrabot.py:work
+worker: python memoguerrabot.py
